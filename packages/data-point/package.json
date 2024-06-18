@@ -49,7 +49,7 @@
   ],
   "dependencies": {
     "ajv": "6.12.3",
-    "debug": "3.x",
+    "debug": "4.x",
     "deep-freeze": "0.0.1",
     "json-stringify-safe": "^5.0.1",
     "lodash": "^4.17.20",
